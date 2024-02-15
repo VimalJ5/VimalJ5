@@ -18,7 +18,7 @@ I'm currently studying CSAI (Computer Science and Artificial Intelligence) at II
 - Machine Learning
 
 ## 📈 GitHub Stats
-![Vimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VimalJ5&show_icons=true&count_private=true&hide=contribs&theme=radical)
+<>![Vimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VimalJ5&show_icons=true&count_private=true&hide=contribs&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VimalJ5&layout=compact&theme=radical)
 
