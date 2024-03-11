@@ -23,5 +23,5 @@ I'm currently studying CSAI (Computer Science and Artificial Intelligence) at II
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VimalJ5&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vimal-jayant-subburaj-23b430258/
+- LinkedIn: https://www.linkedin.com/in/vimal-jayant-subburaj-23b430258/
 
