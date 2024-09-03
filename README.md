@@ -5,7 +5,7 @@
 I'm currently studying CSAI (Computer Science and Artificial Intelligence) at IIIT Delhi.
 
 ## 🔧 Technologies & Tools
-- Python, JavaScript
+- Python, Java, C++
 - Machine Learning: TensorFlow, PyTorch
 - Web Development: HTML, CSS, JavaScript, React
 - Database: MongoDB, MySQL
