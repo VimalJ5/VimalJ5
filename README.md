@@ -14,8 +14,8 @@ I'm currently studying CSAI (Computer Science and Artificial Intelligence) at II
 ## 🌱 I’m currently learning
 - Deep Learning techniques
 - Full-stack web development
-- Database Management System
-- Machine Learning
+- Computer Vision
+- Natural Language Processing
 
 ## 📈 GitHub Stats
 ![Vimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VimalJ5&show_icons=true&count_private=true&hide=contribs&theme=radical)
